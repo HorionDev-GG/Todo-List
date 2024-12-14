@@ -1,6 +1,8 @@
 # Todo List
 A simple todo list app built using HTML, CSS, and JavaScript.
 
+![App Screenshot](images/App Screenshot.png)
+
 ## How to Use
 1. Open `index.html` in your browser.
 2. Type a task in the input box and click the plus icon.
