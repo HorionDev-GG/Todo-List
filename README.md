@@ -9,4 +9,6 @@ A simple todo list app built using HTML, CSS, and JavaScript.
 
 The app saves your tasks automatically using localStorage, so your tasks will still be there when you reload the page or close your web browser.
 
+This project uses Bootstrap CSS to style the app components.
+
 Feel free to contribute or modify this project!
