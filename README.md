@@ -1,7 +1,7 @@
 # Todo List
 A simple todo list app built using HTML, CSS, and JavaScript.
 
-![App Screenshot](images/App Screenshot.png)
+![App Screenshot](https://github.com/HorionDev-GG/todo-list/blob/12ba6b9d07065625102d85d8ed27ad1727e62835/images/App%20Screenshot.png?raw=true)
 
 ## How to Use
 1. Open `index.html` in your browser.
