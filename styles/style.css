@@ -1,3 +1,10 @@
+body {
+  /* Photo by Riccardo Chiarini on Unsplash */
+  background-image: url(../images/riccardo-chiarini-SfZVqHUWtUE-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 button svg {
   align-items: center;
 }
